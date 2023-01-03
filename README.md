@@ -1,6 +1,6 @@
 # ProgressiveWebApplications-
 Welcome to the Text Editor! This is a single-page application that functions as a progressive web app (PWA) and features a number of data persistence techniques to ensure that your writing is saved and available even when offline. The app utilizes the idb package, a lightweight wrapper around the IndexedDB API, to store and retrieve data from an IndexedDB database.
-
+ ![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
 ## Getting Started
 To get started, follow these instructions:
 
